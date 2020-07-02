@@ -7,7 +7,7 @@ import (
 	"go.uber.org/zap/zapcore"
 	"io"
 	"os"
-	"rd-assist/path"
+	"github.com/jiwu-tech/rd-assist/path"
 	"strings"
 	"time"
 )
